@@ -1,0 +1,27 @@
+{
+  "name": "mohit",
+  "version": "1.0.0",
+  "description": "amazing",
+  "homepage": "https://github.com/mohitsankhyan81/nodes#readme",
+  "bugs": {
+    "url": "https://github.com/mohitsankhyan81/nodes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitsankhyan81/nodes.git"
+  },
+  "license": "ISC",
+  "author": "mohit",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@angular/cli": "^20.0.4",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
