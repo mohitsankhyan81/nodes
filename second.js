@@ -1,3 +1,7 @@
+(function(exports,require,module,__filename__,__dirname__){
+
+
+
 mohit={
     name:"mohit",
     rollno:2345,
@@ -5,3 +9,4 @@ mohit={
 };
 
 module.exports=mohit;
+})
